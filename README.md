@@ -8,7 +8,6 @@
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brindhac07@gmail.com)
 [![Location](https://img.shields.io/badge/Madurai,_India-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
-![Profile Views](https://komarev.com/ghpvc/?username=brindha-c&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
