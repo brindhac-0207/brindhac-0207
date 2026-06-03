@@ -16,6 +16,7 @@
 ## 🙋‍♀️ About Me
 
 ```python
+
 class BrindhaC:
     def __init__(self):
         self.name        = "Brindha C"
@@ -26,20 +27,9 @@ class BrindhaC:
         self.interests   = ["Data Science", "Machine Learning", "Deep Learning",
                             "Data Analytics", "Generative AI", "NLP"]
         self.currently   = "Building AI-powered systems & sharpening ML fundamentals"
-
+ 
     def say_hi(self):
-        return "Let's turn data into decisions! 🚀"
-
-me = BrindhaC()
-
-print("Name:", me.name)
-print("Degree:", me.degree)
-print("College:", me.college)
-print("CGPA:", me.cgpa)
-print("Location:", me.location)
-print("Interests:", ", ".join(me.interests))
-print("Current Focus:", me.currently)
-print("\nMessage:", me.say_hi())
+        return "Let's turn data into decisions! 🚀"with the same program give me how to run
 ```
 
 I'm a passionate **AI & Data Science engineer** with hands-on experience in deep learning, data analytics, and generative AI. I enjoy building intelligent systems that solve real-world problems — from predicting mental health conditions using LSTM/RNN to developing voice-driven commerce platforms powered by GenAI.
