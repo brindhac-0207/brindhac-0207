@@ -75,7 +75,6 @@ A deep learning system that predicts and classifies mental health conditions usi
 - 🎯 Accurately classifies mental health conditions to aid early diagnosis and intervention
 - 💡 **Impact**: Bridges the gap between AI and mental healthcare accessibility
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](#)
 
 ---
 
@@ -89,7 +88,6 @@ A GenAI-powered voice commerce platform that lets users browse, interact, and tr
 - 🤖 Leverages **Generative AI** to enhance personalization and UX
 - 💡 **Impact**: Demonstrates practical GenAI application in e-commerce accessibility
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](#)
 
 ---
 
@@ -128,10 +126,8 @@ A GenAI-powered voice commerce platform that lets users browse, interact, and tr
 
 <div align="center">
 
-| 🤖 | 📊 | 🧠 | 🗣️ |
-|---|---|---|---|
 | **Machine Learning** | **Data Analytics** | **Deep Learning** | **Natural Language Processing** |
-| 🔬 | 📈 | 🎙️ | ⚡ |
+
 | **AI Research** | **Predictive Modeling** | **Generative AI** | **Data Visualization** |
 
 </div>
