@@ -21,7 +21,7 @@ class BrindhaC:
         self.name        = "Brindha C"
         self.degree      = "B.Tech – Artificial Intelligence & Data Science"
         self.college     = "Velammal College of Engineering and Technology"
-        self.cgpa        = 8.86
+        self.cgpa        = 8.69
         self.location    = "Madurai, India"
         self.interests   = ["Data Science", "Machine Learning", "Deep Learning",
                             "Data Analytics", "Generative AI", "NLP"]
@@ -29,6 +29,17 @@ class BrindhaC:
 
     def say_hi(self):
         return "Let's turn data into decisions! 🚀"
+
+me = BrindhaC()
+
+print("Name:", me.name)
+print("Degree:", me.degree)
+print("College:", me.college)
+print("CGPA:", me.cgpa)
+print("Location:", me.location)
+print("Interests:", ", ".join(me.interests))
+print("Current Focus:", me.currently)
+print("\nMessage:", me.say_hi())
 ```
 
 I'm a passionate **AI & Data Science engineer** with hands-on experience in deep learning, data analytics, and generative AI. I enjoy building intelligent systems that solve real-world problems — from predicting mental health conditions using LSTM/RNN to developing voice-driven commerce platforms powered by GenAI.
