@@ -29,7 +29,7 @@ class BrindhaC:
         self.currently   = "Building AI-powered systems & sharpening ML fundamentals"
  
     def say_hi(self):
-        return "Let's turn data into decisions! 🚀"with the same program give me how to run
+        return "Let's turn data into decisions! 🚀"
 ```
 
 I'm a passionate **AI & Data Science engineer** with hands-on experience in deep learning, data analytics, and generative AI. I enjoy building intelligent systems that solve real-world problems — from predicting mental health conditions using LSTM/RNN to developing voice-driven commerce platforms powered by GenAI.
