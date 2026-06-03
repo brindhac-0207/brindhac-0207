@@ -15,23 +15,6 @@
 
 ## 🙋‍♀️ About Me
 
-```python
-
-class BrindhaC:
-    def __init__(self):
-        self.name        = "Brindha C"
-        self.degree      = "B.Tech – Artificial Intelligence & Data Science"
-        self.college     = "Velammal College of Engineering and Technology"
-        self.cgpa        = 8.69
-        self.location    = "Madurai, India"
-        self.interests   = ["Data Science", "Machine Learning", "Deep Learning",
-                            "Data Analytics", "Generative AI", "NLP"]
-        self.currently   = "Building AI-powered systems & sharpening ML fundamentals"
- 
-    def say_hi(self):
-        return "Let's turn data into decisions! 🚀"
-```
-
 I'm a passionate **AI & Data Science engineer** with hands-on experience in deep learning, data analytics, and generative AI. I enjoy building intelligent systems that solve real-world problems — from predicting mental health conditions using LSTM/RNN to developing voice-driven commerce platforms powered by GenAI.
 
 - 🎓 Final year B.Tech student with a **CGPA of 8.86**
