@@ -21,7 +21,7 @@ class BrindhaC:
         self.name        = "Brindha C"
         self.degree      = "B.Tech – Artificial Intelligence & Data Science"
         self.college     = "Velammal College of Engineering and Technology"
-        self.cgpa        = 8.69
+        self.cgpa        = 8.86
         self.location    = "Madurai, India"
         self.interests   = ["Data Science", "Machine Learning", "Deep Learning",
                             "Data Analytics", "Generative AI", "NLP"]
@@ -33,7 +33,7 @@ class BrindhaC:
 
 I'm a passionate **AI & Data Science engineer** with hands-on experience in deep learning, data analytics, and generative AI. I enjoy building intelligent systems that solve real-world problems — from predicting mental health conditions using LSTM/RNN to developing voice-driven commerce platforms powered by GenAI.
 
-- 🎓 Final year B.Tech student with a **CGPA of 8.69**
+- 🎓 Final year B.Tech student with a **CGPA of 8.86**
 - 🧠 Experienced with **Deep Learning**, **NLP**, and **Predictive Modeling**
 - 📊 Skilled in transforming raw data into meaningful insights using **Python, Power BI & SQL**
 - 🌱 Currently exploring advanced ML architectures and real-world AI deployment
@@ -135,7 +135,7 @@ A GenAI-powered voice commerce platform that lets users browse, interact, and tr
 - 🎤 Attended **"Ins and Outs of Generative AI"** workshop at **PSG College of Technology, Coimbatore** *(March 2025)*
   - Explored GenAI core concepts, prompt engineering, and real-world AI tools
 - 🏅 Scored **90% in XII** (Mathematics & Biology stream)
-- 🎓 Maintaining **CGPA 8.69** in B.Tech AI & Data Science
+- 🎓 Maintaining **CGPA 8.86** in B.Tech AI & Data Science
 - ✍️ Certified in **both Tamil and English Type Writing** by the Government of Tamil Nadu
 
 ---
