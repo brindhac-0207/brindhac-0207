@@ -31,7 +31,7 @@ I'm a passionate **AI & Data Science engineer** with hands-on experience in deep
 |--------|-------------|-------|------|
 | 🏛️ **B.Tech – AI & Data Science** | Velammal College of Engineering and Technology | CGPA: **8.69** | Apr 2026 – Present |
 | 📘 **XII – Mathematics & Biology** | Annamalaiyar Matriculation Higher Secondary School | **90%** | June 2022 – May 2023 |
-| 📗 **X – Secondary Education** | Fusco's Matriculation School | **100% ** | June 2020 – May 2021 |
+| 📗 **X – Secondary Education** | Fusco's Matriculation School | **100%** | June 2020 – May 2021 |
 
 ---
 
